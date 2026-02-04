@@ -4,7 +4,7 @@ Personal Cursor skills for UU5 workflows, shared via GitHub. Install the content
 
 ## Skills included
 
-- **uu5-install-library-skills** – Installs shared UU5 library skills into a project (git subtree + deps) and ensures `.prettierignore` for `*.hbs`. Use in new library folders by asking Cursor to “install uu5 skills” or “inject skills”.
+- **uu5-install-library-skills** – Installs shared UU5 library skills into a project at `.cursor/skills/uu5-library-skillsg01/` via git subtree (add + npm install) and ensures `.prettierignore` for `*.hbs`. Project-specific skills can live alongside at `.cursor/skills/<your-skill>/`. Use in new library folders by asking Cursor to “install uu5 skills” or “inject skills”.
 
 ## Install (personal Cursor skill)
 
